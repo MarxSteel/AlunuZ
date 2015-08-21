@@ -6,7 +6,7 @@ Plataforma Educacional Modular AlunuZ - "Gestão educacional de A a Z"
 - Já pensou como seria o processo de transerencia de aluno entre escolas da rede municipal sem precisar de kilos de papel?<br />
 - Já pensou como seria mais fácil ao poder público receber índices mais claros, brutos e sem intermédios de como está a -qualidade de educação?<br />
 - Já pensou como seria mais fácil acompanhar a frequêcia escolar de seu filho, direto pelo seu SmartPhone?<br />
-
+<< E O PRINCIPAL: OPEN SOURCE >>
 <br /><br /><br /><br />
 --- ISSO E MUITO MAIS COISAS<br />
 -- NO MEU, NO SEU, NO NOSSO AlunuZ<br />
